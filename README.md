@@ -21,7 +21,7 @@ This project implements a deep learning pipeline for classifying ASL hand signs 
 
 ## Dataset
 
-- **Source:** Sign Language MNIST, converted from CSV to JPEG images ([Kaggle link](https://www.kaggle.com/datasets/ash2703/handsignimages))
+- **Source:** ([Sign Language MNIST](https://www.kaggle.com/datasets/ash2703/handsignimages)), converted from CSV to JPEG images
 - **Classes:** 24 (A–Y, excluding J and Z)
 - **Images:** 34,627 (Train: 27,455 | Test: 7,172)
 - **Image Size:** 28×28 pixels, grayscale
@@ -76,9 +76,10 @@ jupyter notebook Notebook/Hand-Sign-Recognition-CNN.ipynb
 
 ## Results
 
-- **Test Accuracy:** ~94%
+- **Test Accuracy:** ~95%
 - **Train Accuracy:** ~98%
 - **Visualization:** Batch prediction samples with correct/wrong highlight
+- **Correctly predicted 29 samples out of 30 in testing phase**
 - **Model Saved:** `model.h5`
 
 ## Contributing
