@@ -4,3 +4,6 @@ pandas
 matplotlib
 scikit-learn
 jupyter
+streamlit
+opencv-python-headless
+Pillow
