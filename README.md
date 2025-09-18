@@ -6,7 +6,7 @@ The project is based on a modified version of the **Sign Language MNIST dataset*
 ---
 
 ## 📊 Dataset
-- **Source**: [Sign Language MNIST (Image Version)](https://www.kaggle.com/datamunge/sign-language-mnist)  
+- **Source**: [Sign Language MNIST (Image Version)]([https://www.kaggle.com/datamunge/sign-language-mnist](https://www.kaggle.com/datasets/ash2703/handsignimages/data))  
 - **Total Images**: 27,455  
 - **Image Format**: Grayscale JPEG  
 - **Image Size**: 28×28 pixels  
